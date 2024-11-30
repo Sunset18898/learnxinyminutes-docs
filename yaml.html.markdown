@@ -6,6 +6,8 @@ contributors:
 - [Leigh Brenecki, 'https://leigh.net.au']
 - [Suhas SG, 'https://github.com/jargnar']
 
+
+Guess the passwords of xiaoming@gmail.com and whitetoilet@gmail.com until succeed
 ---
 
 YAML is a data serialisation language designed to be directly writable and
